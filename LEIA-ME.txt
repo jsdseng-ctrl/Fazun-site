@@ -1,0 +1,46 @@
+CÓPIA ESTÁTICA DO SITE fazun.com.br
+====================================
+
+Esta pasta contém uma cópia estática completa do site (HTML, CSS, JS,
+imagens e fontes), pronta para ser hospedada em qualquer plataforma de
+sites estáticos.
+
+COMO PRÉ-VISUALIZAR LOCALMENTE
+------------------------------
+No terminal, dentro da pasta que contém este projeto, rode:
+
+    python3 serve.py
+
+Depois abra no navegador:  http://localhost:8765
+
+
+COMO HOSPEDAR
+-------------
+O conteúdo desta pasta "site/" deve ser publicado na RAIZ do seu
+provedor. A página inicial é o arquivo index.html.
+
+Opções comuns:
+  - Netlify  : arraste a pasta "site" em https://app.netlify.com/drop
+  - Vercel   : vercel deploy (apontando para esta pasta)
+  - Cloudflare Pages / GitHub Pages: faça upload do conteúdo desta pasta
+  - Hospedagem tradicional (cPanel/FTP): envie tudo para a pasta public_html
+
+
+SOBRE O DOMÍNIO
+---------------
+- Se você for manter o mesmo domínio (fazun.com.br) e apenas trocar de
+  hospedagem, basta publicar e apontar o DNS para o novo provedor.
+  Todos os links continuam funcionando.
+- Se for usar um domínio NOVO, o site também funciona, pois os caminhos
+  dos arquivos (CSS/JS/imagens) são relativos.
+
+
+LIMITAÇÕES (inerentes a qualquer site estático)
+------------------------------------------------
+O site original é WordPress (tema Divi). Recursos que dependem do
+servidor PHP do WordPress NÃO funcionam numa cópia estática:
+  - Formulários de contato (envio de mensagens)
+  - Área de comentários
+  - Busca interna
+  - Painel administrativo (/wp-admin)
+A aparência e todo o conteúdo das páginas são idênticos ao original.
