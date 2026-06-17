@@ -611,9 +611,8 @@
   // BOTÃO WHATSAPP FLUTUANTE (apenas onde o plugin HT CTC não está presente)
   // ============================================================
   function createWhatsAppFAB() {
-    if (document.querySelector('.ht-ctc')) return; // plugin já presente, não duplicar
-
     var svcId = detectPageService();
+    if (!svcId) return; // apenas em páginas de serviço
     var svc = svcId ? SERVICES[svcId] : null;
     var waText = svc
       ? 'Ol%C3%A1!%20Quero%20um%20or%C3%A7amento%20de%20' + encodeURIComponent(svc.waPrefix) + '.'
