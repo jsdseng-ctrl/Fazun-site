@@ -159,7 +159,7 @@
         },
         {
           q: 'A inspeção predial é obrigatória?',
-          a: 'Sim, em vários municípios de SP, incluindo a capital. A Lei 16.642/17 (SP) exige inspeção periódica de edificações. Além disso, síndicos e proprietários têm responsabilidade civil sobre a manutenção da edificação.'
+          a: 'Depende do município. A cidade de São Paulo possui legislação própria (Lei Municipal 16.642/17) que exige inspeção periódica de edificações. Outros municípios podem ter leis similares. Independentemente de lei local, <strong>síndicos e proprietários têm responsabilidade civil sobre a conservação e segurança da edificação</strong>, e a inspeção técnica é a forma de comprovar essa diligência.<br><br>Quanto ao uso do drone, todos os voos são realizados com <strong>aeronave cadastrada na ANAC (RBAC-E nº 94)</strong> e com <strong>autorização de espaço aéreo solicitada ao DECEA via SARPAS</strong> antes de cada operação, em conformidade com a regulamentação vigente.'
         },
         {
           q: 'O que está incluído no laudo?',
