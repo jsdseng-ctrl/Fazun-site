@@ -124,7 +124,7 @@
       faqs: [
         {
           q: 'O que é topografia georreferenciada e quando preciso?',
-          a: 'É o levantamento do terreno com coordenadas vinculadas ao sistema geodésico brasileiro (SIRGAS 2000). É obrigatório para <strong>georreferenciamento de imóvel rural</strong> (exigido pelo INCRA), desmembramentos, unificações e regularizações fundiárias. A Fazun realiza o levantamento com equipamentos GPS de dupla frequência.'
+          a: 'A Fazun realiza levantamentos topográficos <strong>planimétricos</strong> (posição horizontal, limites e confrontações) e <strong>planialtimétricos</strong> (posição horizontal + altimetria/cotas, essencial para projetos de terraplanagem, drenagem e implantação de obras).<br><br>Quando necessário, o levantamento é feito com <strong>georreferenciamento</strong> — coordenadas vinculadas ao sistema geodésico brasileiro (SIRGAS 2000) — obrigatório para imóveis rurais (INCRA), desmembramentos, unificações e regularizações fundiárias. A Fazun indica o tipo adequado para cada finalidade.'
         },
         {
           q: 'Quando é necessário fazer sondagem SPT?',
