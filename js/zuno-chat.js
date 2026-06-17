@@ -202,6 +202,13 @@
     if (msgs) msgs.scrollTop = msgs.scrollHeight;
   }
 
+  function scrollToEl(el) {
+    var msgs = $('zuno-messages');
+    if (!msgs || !el) return;
+    // Rola para que o topo da nova mensagem fique visível, com 8px de folga
+    msgs.scrollTop = el.offsetTop - 8;
+  }
+
   function addBotMessage(html) {
     var msgs = $('zuno-messages');
     var avHtml = ZUNO_IMG
@@ -211,7 +218,7 @@
     div.className = 'zuno-msg zuno-bot';
     div.innerHTML = avHtml + '<div class="zuno-bubble">' + html + '</div>';
     msgs.appendChild(div);
-    scrollToBottom();
+    scrollToEl(div);
   }
 
   function addUserMessage(text) {
