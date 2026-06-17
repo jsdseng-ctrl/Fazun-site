@@ -285,11 +285,11 @@
   function injectCSS() {
     var style = document.createElement('style');
     style.textContent = [
-      '#zuno-fab{position:fixed;bottom:85px;right:18px;width:54px;height:54px;background:linear-gradient(135deg,#0a2d5a 0%,#1a4a8a 100%);border-radius:50%;cursor:pointer;z-index:99998;box-shadow:0 4px 16px rgba(0,0,0,0.35);display:flex;align-items:center;justify-content:center;border:none;outline:none;transition:transform 0.2s,box-shadow 0.2s}',
+      '#zuno-fab{position:fixed;bottom:18px;left:18px;width:54px;height:54px;background:linear-gradient(135deg,#0a2d5a 0%,#1a4a8a 100%);border-radius:50%;cursor:pointer;z-index:999999999;box-shadow:0 4px 16px rgba(0,0,0,0.35);display:flex;align-items:center;justify-content:center;border:none;outline:none;transition:transform 0.2s,box-shadow 0.2s}',
       '#zuno-fab:hover{transform:scale(1.08);box-shadow:0 6px 22px rgba(0,0,0,0.45)}',
       '#zuno-fab svg{width:26px;height:26px}',
       '#zuno-badge{position:absolute;top:-4px;right:-4px;width:18px;height:18px;background:#e63946;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:bold;color:#fff;font-family:Arial,sans-serif;pointer-events:none}',
-      '#zuno-panel{position:fixed;bottom:150px;right:18px;width:340px;max-width:calc(100vw - 36px);height:500px;max-height:calc(100vh - 170px);background:#fff;border-radius:18px;box-shadow:0 10px 40px rgba(0,0,0,0.22);z-index:99999;display:none;flex-direction:column;overflow:hidden;font-family:Arial,sans-serif;font-size:14px;line-height:1.5}',
+      '#zuno-panel{position:fixed;bottom:85px;left:18px;width:340px;max-width:calc(100vw - 36px);height:500px;max-height:calc(100vh - 105px);background:#fff;border-radius:18px;box-shadow:0 10px 40px rgba(0,0,0,0.22);z-index:999999999;display:none;flex-direction:column;overflow:hidden;font-family:Arial,sans-serif;font-size:14px;line-height:1.5}',
       '#zuno-panel.zuno-open{display:flex}',
       '#zuno-header{background:linear-gradient(135deg,#0a2d5a 0%,#1a4a8a 100%);color:#fff;padding:13px 14px;display:flex;align-items:center;gap:10px;flex-shrink:0}',
       '#zuno-hav{width:38px;height:38px;background:rgba(255,255,255,0.18);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:17px;font-weight:bold;flex-shrink:0}',
