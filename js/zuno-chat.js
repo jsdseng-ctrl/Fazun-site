@@ -66,11 +66,11 @@
       id: 'lta-afe-anvisa',
       name: 'LTA / AFE – Anvisa',
       emoji: '⚕️',
-      intro: 'A <strong>LTA</strong> (Licença da Vigilância Sanitária Municipal) e a <strong>AFE</strong> (Autorização de Funcionamento de Empresa – Anvisa Federal) são obrigatórias para farmácias, drogarias, distribuidoras, clínicas, laboratórios, empresas de alimentos, cosméticos, saneantes e produtos médicos.<br><br>Sem essas licenças, o estabelecimento pode ser <strong>autuado, interditado e multado</strong>.',
+      intro: 'O <strong>LTA</strong> (Laudo Técnico de Avaliação) é emitido pela Vigilância Sanitária Municipal e atesta que o imóvel atende às condições técnicas exigidas. A Fazun elabora o <strong>projeto sanitário, memorial de construção e memorial de atividades</strong> necessários para a aprovação.<br><br>A <strong>AFE</strong> (Autorização de Funcionamento de Empresa – Anvisa Federal) é obrigatória para empresas que fabricam, distribuem ou importam produtos regulados: medicamentos, cosméticos, alimentos, saneantes e produtos médicos.<br><br>Sem a <strong>Licença Sanitária</strong>, o estabelecimento pode ser <strong>autuado, interditado e multado</strong>.',
       faqs: [
         {
-          q: 'Minha empresa precisa de LTA ou AFE?',
-          a: 'Depende da atividade. A <strong>LTA</strong> é municipal e exigida para qualquer estabelecimento de saúde ou alimentação. A <strong>AFE</strong> é federal (Anvisa) e exigida para empresas que fabricam, distribuem ou importam produtos regulados. A Fazun avalia qual se aplica ao seu caso.'
+          q: 'Como funciona o processo da licença sanitária?',
+          a: 'O processo segue etapas bem definidas:<br><br><strong>1. LTA (Laudo Técnico de Avaliação):</strong> a Fazun elabora o projeto sanitário, memorial de construção e memorial de atividades. A Vigilância analisa e, se aprovado, o LTA atesta que o imóvel está tecnicamente adequado.<br><br><strong>2. Adequações:</strong> se necessário, o estabelecimento realiza as obras ou ajustes indicados.<br><br><strong>3. Licença Sanitária:</strong> com o LTA aprovado e adequações concluídas, entra-se com o pedido da licença sanitária municipal.<br><br><strong>4. AFE (quando aplicável):</strong> para empresas que necessitam da AFE federal, é emitida a Ficha de Procedimentos utilizada no portal da Anvisa. Com a AFE deferida, retorna-se à prefeitura para emissão da Licença Sanitária.'
         },
         {
           q: 'O projeto arquitetônico influencia na aprovação?',
@@ -78,7 +78,7 @@
         },
         {
           q: 'Quanto tempo leva o processo?',
-          a: 'A LTA municipal varia por cidade: em média <strong>30 a 90 dias</strong>. A AFE federal pode levar <strong>90 a 180 dias</strong> dependendo da categoria de produto. A Fazun agiliza com documentação completa desde o primeiro protocolo.'
+          a: 'A aprovação do LTA varia conforme a prefeitura: em média <strong>60 a 180 dias</strong>. A Licença Sanitária pode levar ainda mais tempo, pois depende também das condições físicas do imóvel e das adequações necessárias. Já a AFE federal leva em torno de <strong>30 dias</strong>, podendo ser maior em casos mais extensos. A Fazun prepara a documentação completa desde o início para evitar pendências e agilizar cada etapa.'
         },
         {
           q: 'Posso funcionar enquanto espero a licença?',
