@@ -93,23 +93,23 @@
       id: 'construcao-reforma',
       name: 'Construção e Reforma',
       emoji: '🏗️',
-      intro: 'A Fazun realiza projetos e acompanhamento técnico de <strong>obras residenciais e comerciais</strong>: projeto arquitetônico, estrutural, hidrossanitário, elétrico, aprovação na Prefeitura e obtenção do Habite-se.<br><br>Obras sem <strong>ART (Anotação de Responsabilidade Técnica)</strong> são ilegais, podem ser embargadas e impossibilitam a regularização futura do imóvel.',
+      intro: 'A Fazun executa <strong>construções residenciais e comerciais, reformas e ampliações</strong> com planejamento, responsabilidade técnica (ART) e acompanhamento do início ao fim.<br><br>Realizamos instalações elétricas e hidráulicas dentro das normas, e trabalhamos em três modalidades: <strong>mão de obra</strong>, <strong>mão de obra com gestão de materiais</strong> (você fatura os materiais e nós executamos) ou <strong>turnkey</strong> — obra entregue chave na mão.',
       faqs: [
         {
-          q: 'Preciso de engenheiro para uma reforma pequena?',
-          a: 'Para reformas simples (pintura, revestimento) não é obrigatório. Para qualquer obra que altere estrutura, amplie área, mude instalações elétricas ou hidráulicas, é <strong>obrigatória a ART de engenheiro</strong> — caso contrário, a obra é ilegal.'
+          q: 'Vocês acompanham a obra do início ao fim?',
+          a: 'Sim. Atuamos com planejamento, execução e <strong>responsabilidade técnica (ART)</strong>, acompanhando todas as etapas até a entrega. Você não precisa se preocupar com gestão de obra — a Fazun cuida de tudo.'
         },
         {
-          q: 'O que é o Habite-se e quando preciso dele?',
-          a: 'O Habite-se é o documento da Prefeitura que certifica que a obra foi concluída conforme o projeto aprovado. É necessário para <strong>ligar serviços de água e luz, vender o imóvel, financiar e averbar a construção</strong> em cartório.'
+          q: 'Fazem obras residenciais e comerciais?',
+          a: 'Sim. Executamos <strong>construções residenciais e comerciais</strong>, além de reformas e ampliações de qualquer porte. Avaliamos o local, entendemos o que você precisa e enviamos uma proposta personalizada.'
         },
         {
-          q: 'Quanto tempo leva a aprovação de projeto na Prefeitura?',
-          a: 'Varia por município: entre <strong>30 e 90 dias</strong> em média. Com o projeto correto e documentação completa, a Fazun evita reprovações que atrasam o processo.'
+          q: 'As instalações elétricas e hidráulicas estão inclusas?',
+          a: 'Sim. Executamos <strong>instalações elétricas e hidráulicas</strong> dimensionadas e dentro das normas vigentes, com profissionais qualificados e ART de responsabilidade técnica.'
         },
         {
-          q: 'Qual a diferença entre projeto arquitetônico e estrutural?',
-          a: 'O <strong>projeto arquitetônico</strong> define o layout, dimensões e estética da obra. O <strong>projeto estrutural</strong> calcula fundações, pilares, vigas e lajes para que a construção seja segura. Ambos são obrigatórios para obras de maior porte.'
+          q: 'Quais as modalidades de contratação?',
+          a: 'Trabalhamos em três modelos:<br><br><strong>1. Mão de obra:</strong> você adquire os materiais e a Fazun executa.<br><strong>2. Mão de obra + gestão de materiais:</strong> você fatura os materiais diretamente e nós cuidamos de tudo mais.<br><strong>3. Turnkey (chave na mão):</strong> a Fazun entrega a obra pronta, do projeto à entrega das chaves.'
         }
       ],
       extraQuestion: 'É uma obra residencial ou comercial? O que pretende fazer? <em>(ex: construir casa, ampliar imóvel, reformar apartamento, construir galpão...)</em>',
