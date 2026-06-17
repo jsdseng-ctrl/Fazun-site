@@ -24,7 +24,7 @@
         },
         {
           q: 'Quanto tempo leva para obter o AVCB?',
-          a: 'Depende do município e da complexidade da edificação. Em média, <strong>60 a 120 dias</strong> após o protocolo. A Fazun agiliza o processo com toda a documentação correta desde o início, evitando indeferimentos.'
+          a: 'O prazo oficial de análise do projeto após o protocolo é de <strong>30 dias</strong>. Caso haja pendências, cada reanálise leva de <strong>7 a 15 dias</strong>. Após a aprovação do projeto, o pedido de vistoria leva cerca de <strong>7 dias</strong>, e após a vistoria deferida, a anexação dos documentos finais pode levar mais <strong>7 dias</strong>.<br><br>O que pode ampliar o prazo são adequações físicas necessárias no imóvel — especialmente em primeira regularização, quando obras podem ser exigidas. Com projeto correto desde o início, a Fazun evita reanálises e agiliza todo o processo.'
         },
         {
           q: 'O que preciso adequar no meu estabelecimento?',
