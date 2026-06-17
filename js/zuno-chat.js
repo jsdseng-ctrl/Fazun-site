@@ -28,7 +28,7 @@
         },
         {
           q: 'O que preciso adequar no meu estabelecimento?',
-          a: 'Geralmente: hidrantes, extintores, iluminação de emergência, sinalização de saída, detector de fumaça e rota de fuga. A Fazun faz um laudo de adequação e indica exatamente o que precisa ser feito.'
+          a: 'Geralmente: hidrantes, extintores, iluminação de emergência, sinalização de saída, detector de fumaça e rota de fuga. A Fazun faz um laudo de adequação e indica exatamente o que precisa ser feito.<br><br>Para dar entrada no AVCB é obrigatório apresentar também o <strong>PPCI (Projeto de Prevenção e Proteção Contra Incêndio)</strong>, que a Fazun elabora conforme a Instrução Técnica do Corpo de Bombeiros aplicável ao seu caso.'
         }
       ],
       extraQuestion: 'Qual é o tipo e uso do estabelecimento? <em>(ex: restaurante, academia, escritório, loja, galpão, clínica...)</em>',
@@ -120,26 +120,26 @@
       id: 'projetos-especialidades',
       name: 'Projetos e Especialidades',
       emoji: '📐',
-      intro: 'A Fazun elabora <strong>projetos estruturais, cálculo estrutural, laudos técnicos, projetos em BIM, PPCI</strong> e projetos de instalações hidrossanitárias e elétricas.<br><br>Atendemos obras novas, reformas e adaptações, sempre com emissão de ART e total conformidade técnica e legal.',
+      intro: 'A Fazun elabora projetos técnicos especializados para obras, regularizações e licenciamentos:<br><br>📍 <strong>Topografia Georreferenciada</strong> – levantamento planialtimétrico e georreferenciamento de imóveis<br>⚡ <strong>Projetos Elétricos</strong> – dimensionamento e detalhamento conforme ABNT NBR 5410<br>💧 <strong>Projetos Hidráulicos</strong> – água fria, esgoto, águas pluviais e incêndio<br>🪨 <strong>Sondagem SPT</strong> – investigação do solo para fundações<br>🏗️ <strong>Projeto Estrutural</strong> – cálculo e detalhamento de estruturas em concreto, aço ou madeira<br>🚧 <strong>Projeto de Terraplenagem</strong> – movimentação de terra, cortes e aterros<br><br>Todos os projetos são entregues com <strong>ART e responsabilidade técnica</strong>.',
       faqs: [
         {
-          q: 'O que é BIM e por que é importante?',
-          a: 'BIM (Building Information Modeling) é a modelagem digital 3D completa da edificação. Com BIM é possível identificar incompatibilidades entre projetos antes da obra, <strong>reduzindo custos e retrabalho</strong>. A Fazun utiliza Revit e ArchiCAD para projetos BIM.'
+          q: 'O que é topografia georreferenciada e quando preciso?',
+          a: 'É o levantamento do terreno com coordenadas vinculadas ao sistema geodésico brasileiro (SIRGAS 2000). É obrigatório para <strong>georreferenciamento de imóvel rural</strong> (exigido pelo INCRA), desmembramentos, unificações e regularizações fundiárias. A Fazun realiza o levantamento com equipamentos GPS de dupla frequência.'
         },
         {
-          q: 'O que é PPCI?',
-          a: 'PPCI é o <strong>Projeto de Prevenção e Proteção Contra Incêndio</strong>, exigido pelo Corpo de Bombeiros para a emissão do AVCB. Inclui hidrantes, extintores, sinalização, rotas de fuga e sistemas de alarme. A Fazun elabora o PPCI conforme a IT (Instrução Técnica) aplicável.'
+          q: 'Quando é necessário fazer sondagem SPT?',
+          a: 'A sondagem é obrigatória para qualquer obra nova e recomendada em reformas estruturais. Ela determina o tipo de solo e a capacidade de carga, <strong>definindo o tipo de fundação adequado</strong> (sapata, estaca, radier etc.). Sem sondagem, o projeto estrutural pode subdimensionar ou superdimensionar a fundação, gerando risco ou custo desnecessário.'
         },
         {
-          q: 'Quando preciso de um laudo técnico?',
-          a: 'Para compra e venda de imóvel, vistoria de estrutura, análise de trincas, umidade ou patologias, perícias, revisão de projetos existentes, ou quando exigido pela Prefeitura, cartório ou seguradora.'
+          q: 'O projeto elétrico ou hidráulico é obrigatório?',
+          a: 'Sim, para obtenção do <strong>alvará de construção, habite-se, licença sanitária e aprovação no Corpo de Bombeiros</strong>. Além disso, projetos bem elaborados evitam vazamentos, sobrecargas e problemas com seguradoras. A Fazun entrega os projetos prontos para protocolo.'
         },
         {
           q: 'A Fazun faz projeto para imóvel fora de São Paulo?',
-          a: 'Sim. A Fazun atua em <strong>todo o estado de SP</strong> e pode realizar projetos remotamente, com visita técnica quando necessário.'
+          a: 'Sim. A Fazun atua em <strong>todo o estado de SP</strong> e pode realizar projetos remotamente, com visita técnica quando necessário para levantamento topográfico ou sondagem.'
         }
       ],
-      extraQuestion: 'Qual tipo de projeto ou serviço você precisa? <em>(ex: cálculo estrutural, laudo técnico, projeto hidrossanitário, BIM, PPCI, projeto elétrico...)</em>',
+      extraQuestion: 'Qual tipo de projeto ou serviço você precisa? <em>(ex: topografia, projeto elétrico, projeto hidráulico, sondagem, projeto estrutural, terraplenagem...)</em>',
       extraLabel: 'Tipo de projeto',
       waPrefix: 'Projetos e Especialidades'
     },
