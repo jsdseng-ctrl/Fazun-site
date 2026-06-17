@@ -132,7 +132,7 @@
         },
         {
           q: 'O projeto elétrico ou hidráulico é obrigatório?',
-          a: 'Sim, para obtenção do <strong>alvará de construção, habite-se, licença sanitária e aprovação no Corpo de Bombeiros</strong>. Além disso, projetos bem elaborados evitam vazamentos, sobrecargas e problemas com seguradoras. A Fazun entrega os projetos prontos para protocolo.'
+          a: 'Os projetos elétrico e hidráulico são <strong>altamente recomendados</strong> — evitam vazamentos, sobrecargas, problemas com seguradoras e facilitam futuras manutenções. A obrigatoriedade varia: alguns financiamentos (como os da Caixa Econômica) podem exigi-los, mas não é uma regra geral.<br><br>O <strong>projeto de incêndio (PPCI)</strong> é o único com obrigatoriedade clara, quando aplicável à edificação, sendo exigido pelo Corpo de Bombeiros para a emissão do AVCB. A Fazun orienta sobre o que é necessário para cada caso.'
         },
         {
           q: 'A Fazun faz projeto para imóvel fora de São Paulo?',
